@@ -1,0 +1,24 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  background-color: #121212; 
+  color: #fff; 
+  width: 100%;
+  margin-left: 2px;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #ccc;  
+}
+
+.hero img {
+  height: 200px;
+}

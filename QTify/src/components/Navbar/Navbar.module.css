@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  justify-content: space-between; /* logo left, button right */
+  align-items: center;
+  padding: 16px 32px;
+  background-color: #34C94B; /* black background */
+  width: 100%;
+  margin-left: 2px;
+}
+
+.navbar img {
+  height: 40px;
+}
+
+.navbar input {
+  flex: 1; /* makes search bar expand */
+  margin: 0 32px;
+}
+
+.navbar button {
+  margin-left: auto;
+}
+
